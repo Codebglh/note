@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "0a79a5574fe50834",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f078b664792c301",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "未命名.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd9afd5a44dfb4c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d7a1aeaab7543ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0718e22dde8b934e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a20c8c9ba181fbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfc9c6d129d83f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "482f90478ad80638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a8ee5d9affb1d1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4f078b664792c301",
+  "lastOpenFiles": [
+    "未命名.md"
+  ]
+}
