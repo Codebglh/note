@@ -1,0 +1,149 @@
+{
+    "maxPage": 1000,
+    "requestFilters": [
+        {
+            "key": "fl",
+            "items": [
+                {
+                    "title": "全部小说",
+                    "value": "0"
+                },
+                {
+                    "title": "玄幻奇幻",
+                    "value": "1"
+                },
+                {
+                    "title": "仙侠修真",
+                    "value": "2"
+                },
+                {
+                    "title": "都市言情",
+                    "value": "3"
+                },
+                {
+                    "title": "历史军事",
+                    "value": "4"
+                },
+                {
+                    "title": "网游竞技",
+                    "value": "5"
+                },
+                {
+                    "title": "科幻灵异",
+                    "value": "6"
+                },
+                {
+                    "title": "恐怖惊悚",
+                    "value": "7"
+                },
+                {
+                    "title": "其他小说",
+                    "value": "8"
+                }
+            ]
+        },
+        {
+            "key": "zs",
+            "items": [
+                {
+                    "title": "不限",
+                    "value": "0"
+                },
+                {
+                    "title": "30万以下",
+                    "value": "1"
+                },
+                {
+                    "title": "30-50万",
+                    "value": "2"
+                },
+                {
+                    "title": "50-100万",
+                    "value": "3"
+                },
+                {
+                    "title": "100-200万",
+                    "value": "4"
+                },
+                {
+                    "title": "200万以上",
+                    "value": "5"
+                }            
+            ]
+        },
+        {
+            "key": "zt",
+            "items": [
+                {
+                    "title": "不限",
+                    "value": "0"
+                },
+                {
+                    "title": "新书上传",
+                    "value": "1"
+                },
+                {
+                    "title": "情节发展",
+                    "value": "2"
+                },
+                {
+                    "title": "精彩纷呈",
+                    "value": "3"
+                },
+                {
+                    "title": "接近尾声",
+                    "value": "4"
+                },
+                {
+                    "title": "已经完本",
+                    "value": "5"
+                }            
+            ]
+        },
+        {
+            "key": "lb",
+            "items": [
+                {
+                    "title": "更新时间",
+                    "value": "lastupdate"
+                },
+                {
+                    "title": "周点击",
+                    "value": "weekvisit"
+                },
+                {
+                    "title": "月点击",
+                    "value": "monthvisit"
+                },
+                {
+                    "title": "总点击",
+                    "value": "allvisit"
+                },
+                {
+                    "title": "周推荐",
+                    "value": "weekvote"
+                },
+                {
+                    "title": "月推荐",
+                    "value": "monthvote"
+                },
+                {
+                    "title": "总推荐",
+                    "value": "allvote"
+                },
+                {
+                    "title": "字数",
+                    "value": "words"
+                },
+                {
+                    "title": "收藏",
+                    "value": "goodnum"
+                },{
+                    "title": "新书",
+                    "value": "postdate"
+                }
+            ]
+        }
+    ],
+    "pageSize": 30
+}
